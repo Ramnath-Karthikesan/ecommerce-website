@@ -1,3 +1,11 @@
+##Atto - an ecommerce website developed using NextJS, Sanity and Stripe payment integration
+
+Website Link: https://atto.vercel.app/
+
+Admin Desk Page Link: https://atto-admin.sanity.studio/
+
+The admin page provides the ability to add and update the products available on the Atto ecommerce platform (This page can only be accessed by the admin)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
