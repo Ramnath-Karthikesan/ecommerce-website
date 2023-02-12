@@ -1,4 +1,4 @@
-##Atto - an ecommerce website developed using NextJS, Sanity and Stripe payment integration
+# Atto - an ecommerce website developed using NextJS, Sanity and Stripe payment integration
 
 Website Link: https://atto.vercel.app/
 
